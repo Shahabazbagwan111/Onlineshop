@@ -1,0 +1,23 @@
+{
+  "name": "onlineshop",
+  "version": "1.0.0",
+  "description": "This is online Shopping",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahabazbagwan111/Onlineshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahabazbagwan111/Onlineshop/issues"
+  },
+  "homepage": "https://github.com/Shahabazbagwan111/Onlineshop#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
